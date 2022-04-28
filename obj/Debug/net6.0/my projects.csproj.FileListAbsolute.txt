@@ -1,0 +1,15 @@
+C:\Users\vd185085\OneDrive - NCR Corporation\Desktop\my projects\bin\Debug\net6.0\my projects.exe
+C:\Users\vd185085\OneDrive - NCR Corporation\Desktop\my projects\bin\Debug\net6.0\my projects.deps.json
+C:\Users\vd185085\OneDrive - NCR Corporation\Desktop\my projects\bin\Debug\net6.0\my projects.runtimeconfig.json
+C:\Users\vd185085\OneDrive - NCR Corporation\Desktop\my projects\bin\Debug\net6.0\my projects.dll
+C:\Users\vd185085\OneDrive - NCR Corporation\Desktop\my projects\bin\Debug\net6.0\my projects.pdb
+C:\Users\vd185085\OneDrive - NCR Corporation\Desktop\my projects\obj\Debug\net6.0\my projects.csproj.AssemblyReference.cache
+C:\Users\vd185085\OneDrive - NCR Corporation\Desktop\my projects\obj\Debug\net6.0\my projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vd185085\OneDrive - NCR Corporation\Desktop\my projects\obj\Debug\net6.0\my projects.AssemblyInfoInputs.cache
+C:\Users\vd185085\OneDrive - NCR Corporation\Desktop\my projects\obj\Debug\net6.0\my projects.AssemblyInfo.cs
+C:\Users\vd185085\OneDrive - NCR Corporation\Desktop\my projects\obj\Debug\net6.0\my projects.csproj.CoreCompileInputs.cache
+C:\Users\vd185085\OneDrive - NCR Corporation\Desktop\my projects\obj\Debug\net6.0\my projects.dll
+C:\Users\vd185085\OneDrive - NCR Corporation\Desktop\my projects\obj\Debug\net6.0\refint\my projects.dll
+C:\Users\vd185085\OneDrive - NCR Corporation\Desktop\my projects\obj\Debug\net6.0\my projects.pdb
+C:\Users\vd185085\OneDrive - NCR Corporation\Desktop\my projects\obj\Debug\net6.0\my projects.genruntimeconfig.cache
+C:\Users\vd185085\OneDrive - NCR Corporation\Desktop\my projects\obj\Debug\net6.0\ref\my projects.dll
